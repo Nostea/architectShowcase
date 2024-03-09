@@ -1,0 +1,24 @@
+.img-text-section {
+  padding: 8vh 12vw;
+  display: flex;
+  gap: 3rem;
+}
+
+.image-container-1 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  gap: 3rem;
+}
+
+.img-main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 3rem;
+}
+
+.text-container p {
+  padding-bottom: 4rem;
+}

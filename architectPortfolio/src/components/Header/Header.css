@@ -1,0 +1,13 @@
+header {
+  padding: var(--padding-sides);
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navigation-links a {
+  padding-right: 6.7vw;
+}
